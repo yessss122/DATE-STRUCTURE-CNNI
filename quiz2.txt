@@ -1,0 +1,9 @@
+﻿Variabila folosită pentru stocarea textului în C# este /string/.
+În C#, un bloc de cod este delimitat de /accolade/.
+Metoda folosită pentru afișarea unui mesaj în consolă în C# este /Console.WriteLine/.
+În C#, o clasă poate moșteni de la o altă clasă folosind cuvântul cheie /:/. 
+Pentru a crea o instanță a unei clase în C#, se folosește cuvântul cheie /new/.
+În C#, o instrucțiune de decizie este reprezentată de /if/.
+Pentru a itera printr-o colecție în C#, se folosește instrucțiunea /foreach/.
+Pentru a defini o constantă în C#, se folosește cuvântul cheie /const/.
+În C#, o metodă care nu returnează nici o valoare este de tip /void/.

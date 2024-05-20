@@ -1,0 +1,10 @@
+﻿Ce este o matrice în C#?/Un vector bidimensional;Un vector unidimensional;Un tip de date string;Un vector bidimensional
+Cum se accesează un element specific într-o matrice?/Prin specificarea indicilor;Prin folosirea metodei GetElement;Prin conversia la string;Prin specificarea indicilor
+Ce reprezintă indicele de linie într-o matrice?/Poziția orizontală a elementului;Poziția verticală a elementului;Un număr întreg;Un număr întreg
+Care este modalitatea de declarare a unei matrice în C#?/Utilizând cuvântul cheie "matrix";Utilizând cuvântul cheie "vector";Utilizând colchetii [];Utilizând colchetii []
+Care este diferența între o matrice și un vector unidimensional?/O matrice are două dimensiuni;Un vector unidimensional are o singură dimensiune;O matrice are o singură dimensiune;O matrice are două dimensiuni
+Ce este o matrice multidimensională în C#?/O matrice cu mai mult de două dimensiuni;O matrice cu o singură dimensiune;O matrice cu exact două dimensiuni;O matrice cu mai mult de două dimensiuni
+Cum se poate inițializa o matrice în C#?/Prin atribuirea valorilor la fiecare element individual;Prin specificarea dimensiunilor;Prin utilizarea metodei SetMatrix;Prin atribuirea valorilor la fiecare element individual
+Care este sintaxa corectă pentru a accesa un element dintr-o matrice în C#?/matrice[linie, coloană];matrice[poziție];matrice[linie][coloană];matrice[linie, coloană]
+Ce este un element al unei matrici în C#?/Un singur element de date;Un vector unidimensional;Un șir de caractere;Un singur element de date
+Care este scopul utilizării matricilor în C#?/Pentru stocarea datelor organizate într-o structură tabulară;Pentru lucrul cu metode string;Pentru controlul fluxului de execuție;Pentru stocarea datelor organizate într-o structură tabulară
